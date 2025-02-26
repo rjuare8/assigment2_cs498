@@ -1,0 +1,5 @@
+hw2.js includes the code for server 1
+
+server2.js include the code for server 2 
+
+the folder views, include the code with the frontend displayed when accessing /greeting
